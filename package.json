@@ -1,0 +1,20 @@
+{
+  "name": "sleep-sort",
+  "version": "0.0.1",
+  "description": "Implementation of the sleep-sort algorithm.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dboz/sleep-sort.git"
+  },
+  "author": "Alessandro Dalla Benetta",
+  "license": "BSD",
+  "readmeFilename": "Readme.md",
+  "gitHead": "9e922d7d7537476777f1b84be1698e14a4d7e132"
+}
